@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mywebstore>
+  <created_at>2026-10-30 12:00</created_at>
+  <products>
+    <product>
+      <id>MB025</id>
+      <name><![CDATA[Apple AirPods Max (USB-C) Starlight]]></name>
+      <link><![CDATA[https://mobly.gr/product/apple-airpods-max-usb-c-starlight]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2026/04/812354_1024.jpg]]></image>
+      <category><![CDATA[Ήχος > Ακουστικά]]></category>
+      <price_with_vat>498.00</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Apple]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0195949544163</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>1000</weight>
+      <color><![CDATA[Starlight]]></color>
+    </product>
+    <product>
+      <id>MB024</id>
+      <name><![CDATA[Apple AirPods Max (USB-C) Purple]]></name>
+      <link><![CDATA[https://mobly.gr/product/apple-airpods-max-usb-c-purple]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2026/04/MWW83ZMA_1.jpg]]></image>
+      <category><![CDATA[Ήχος > Ακουστικά]]></category>
+      <price_with_vat>498.00</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Apple]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0195949544583</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>1000</weight>
+      <color><![CDATA[Μωβ]]></color>
+    </product>
+    <product>
+      <id>MB026</id>
+      <name><![CDATA[Xiaomi Electric Scooter 4 Pro (2nd Gen) Black]]></name>
+      <link><![CDATA[https://mobly.gr/product/xiaomi-electric-scooter-4-pro-2nd-gen-black]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/07/715180-3_1024.jpg]]></image>
+      <category><![CDATA[Ηλεκτρικά Πατίνια]]></category>
+      <price_with_vat>412.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Xiaomi]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>6941812765760</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>22000</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB022</id>
+      <name><![CDATA[Bose Noise Cancelling Headphones 700 Luxe Silver]]></name>
+      <link><![CDATA[https://mobly.gr/product/bose-noise-cancelling-headphones-700-luxe-silver]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/06/BOSE700sil1-1000x1250w-1.jpeg]]></image>
+      <category><![CDATA[Ήχος > Ακουστικά]]></category>
+      <price_with_vat>384.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Bose]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0017817787024</ean>
+      <availability>In stock</availability>
+      <quantity>2</quantity>
+      <weight>1200</weight>
+      <color><![CDATA[Ασημί]]></color>
+    </product>
+    <product>
+      <id>MB049</id>
+      <name><![CDATA[Nanoleaf Lines Starter Kit 15 Panels]]></name>
+      <link><![CDATA[https://mobly.gr/product/nanoleaf-lines-starter-kit-15-panels]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/3916308_2.jpg]]></image>
+      <category><![CDATA[Smart Home > Έξυπνος Φωτισμός]]></category>
+      <price_with_vat>299.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Nanoleaf]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>4897105330134</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>2000</weight>
+    </product>
+    <product>
+      <id>MB037</id>
+      <name><![CDATA[Logitech G29 Driving Force Τιμονιέρα με Πετάλια (PS5/PS4/PC)]]></name>
+      <link><![CDATA[https://mobly.gr/product/logitech-g29-driving-force-ps5-ps4-pc]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/03/305546_1024.jpeg]]></image>
+      <category><![CDATA[Gaming > Τιμονιέρες]]></category>
+      <price_with_vat>288.00</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Logitech]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>5099206057302</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>7000</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB003</id>
+      <name><![CDATA[Sony PULSE Explore Wireless Earbuds White (PS5)]]></name>
+      <link><![CDATA[https://mobly.gr/product/sony-pulse-explore-wireless-earbuds-white-ps5]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2025/01/sony-playstation-pulse-explore.jpg]]></image>
+      <category><![CDATA[Gaming > Gaming Ακουστικά]]></category>
+      <price_with_vat>219.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Sony]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0711719573005</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>400</weight>
+      <color><![CDATA[Λευκό]]></color>
+    </product>
+    <product>
+      <id>MB030</id>
+      <name><![CDATA[Samsung Galaxy Watch5 44mm Graphite]]></name>
+      <link><![CDATA[https://mobly.gr/product/samsung-galaxy-watch5-44mm-graphite]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2025/11/gadget6.jpg]]></image>
+      <category><![CDATA[Smartwatches]]></category>
+      <price_with_vat>219.00</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Samsung]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>8806094494389</ean>
+      <availability>In stock</availability>
+      <quantity>2</quantity>
+      <weight>500</weight>
+      <color><![CDATA[Γκρι]]></color>
+    </product>
+    <product>
+      <id>MB054</id>
+      <name><![CDATA[Kreafunk aMAJOR II Ηχείο Bluetooth Cotta Orange]]></name>
+      <link><![CDATA[https://mobly.gr/product/kreafunk-amajor-ii-bluetooth-cotta-orange]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/04/20230504132041_kreafunk_amajor_2_kfjl05_icheio_bluetooth_40w_me_diarkeia_mpatarias_eos_40_ores_cotta_orange.jpeg]]></image>
+      <category><![CDATA[Ήχος > Φορητά Ηχεία Bluetooth]]></category>
+      <price_with_vat>199.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Kreafunk]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>5713680603045</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>2500</weight>
+      <color><![CDATA[Πορτοκαλί]]></color>
+    </product>
+    <product>
+      <id>MB004</id>
+      <name><![CDATA[Sony DualSense Edge Wireless Controller (PS5)]]></name>
+      <link><![CDATA[https://mobly.gr/product/sony-dualsense-edge-wireless-controller-ps5]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/03/20230504093623_sony_dualsense_edge_asyrmato_gamepad_gia_ps5_leyko.jpeg]]></image>
+      <category><![CDATA[Gaming > Χειριστήρια]]></category>
+      <price_with_vat>198.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Sony]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0711719586555</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>1200</weight>
+    </product>
+    <product>
+      <id>MB047</id>
+      <name><![CDATA[Nanoleaf Shapes Ultra Black Triangles Smarter Kit 9 Panels]]></name>
+      <link><![CDATA[https://mobly.gr/product/nanoleaf-shapes-ultra-black-triangles-smarter-kit-9-panels]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/4218043.jpg]]></image>
+      <category><![CDATA[Smart Home > Έξυπνος Φωτισμός]]></category>
+      <price_with_vat>198.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Nanoleaf]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>4897105331513</ean>
+      <availability>In stock</availability>
+      <quantity>2</quantity>
+      <weight>1500</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB046</id>
+      <name><![CDATA[Nanoleaf Shapes Ultra Black Hexagons Smarter Kit 9 Panels]]></name>
+      <link><![CDATA[https://mobly.gr/product/nanoleaf-shapes-ultra-black-hexagons-smarter-kit-9-panels]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/4323955.jpg]]></image>
+      <category><![CDATA[Smart Home > Έξυπνος Φωτισμός]]></category>
+      <price_with_vat>196.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Nanoleaf]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>4897105335931</ean>
+      <availability>In stock</availability>
+      <quantity>2</quantity>
+      <weight>1500</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB002</id>
+      <name><![CDATA[Sony PULSE Explore Wireless Earbuds Midnight Black (PS5)]]></name>
+      <link><![CDATA[https://mobly.gr/product/sony-pulse-explore-wireless-earbuds-midnight-black-ps5]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2025/02/explore-midnight-1.jpg]]></image>
+      <category><![CDATA[Gaming > Gaming Ακουστικά]]></category>
+      <price_with_vat>189.00</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Sony]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0711719590064</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>400</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB023</id>
+      <name><![CDATA[Harman Kardon Luna Ηχείο Bluetooth Grey]]></name>
+      <link><![CDATA[https://mobly.gr/product/harman-kardon-luna-bluetooth-grey]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/HK_LUNA_FRONT_GREY_43720_x6-copy.jpg]]></image>
+      <category><![CDATA[Ήχος > Φορητά Ηχεία Bluetooth]]></category>
+      <price_with_vat>188.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Harman Kardon]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0028292290831</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>900</weight>
+      <color><![CDATA[Γκρι]]></color>
+    </product>
+    <product>
+      <id>MB051</id>
+      <name><![CDATA[Kreafunk aJAZZ+ Ηχείο Bluetooth Ivory White]]></name>
+      <link><![CDATA[https://mobly.gr/product/kreafunk-ajazz-bluetooth-ivory-white]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2026/03/20250624144408_6ddaed02.jpeg]]></image>
+      <category><![CDATA[Ήχος > Ηχεία Bluetooth]]></category>
+      <price_with_vat>179.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Kreafunk]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>5713680601331</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>1500</weight>
+      <color><![CDATA[Λευκό]]></color>
+    </product>
+    <product>
+      <id>MB050</id>
+      <name><![CDATA[Kreafunk aJAZZ+ Ηχείο Bluetooth Ivory Black]]></name>
+      <link><![CDATA[https://mobly.gr/product/kreafunk-ajazz-bluetooth-ivory-black]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2026/03/20220330101716_4f93472c.jpeg]]></image>
+      <category><![CDATA[Ήχος > Ηχεία Bluetooth]]></category>
+      <price_with_vat>179.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Kreafunk]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>5713680601348</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>1500</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB021</id>
+      <name><![CDATA[Bose SoundLink Flex Ηχείο Bluetooth White Smoke]]></name>
+      <link><![CDATA[https://mobly.gr/product/bose-soundlink-flex-bluetooth-white-smoke]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2026/03/20220202120721_bose_soundlink_flex_1_865983_05_adiavrocho_icheio_bluetooth_me_12_ores_leitourgias_white_smoke.jpeg]]></image>
+      <category><![CDATA[Ήχος > Φορητά Ηχεία Bluetooth]]></category>
+      <price_with_vat>179.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Bose]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0017817832038</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>900</weight>
+      <color><![CDATA[Λευκό]]></color>
+    </product>
+    <product>
+      <id>MB052</id>
+      <name><![CDATA[Kreafunk aJAZZ+ Ηχείο Bluetooth Ivory Sand]]></name>
+      <link><![CDATA[https://mobly.gr/product/kreafunk-ajazz-bluetooth-ivory-sand]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2026/03/20220330101814_d20f92cd.jpeg]]></image>
+      <category><![CDATA[Ήχος > Ηχεία Bluetooth]]></category>
+      <price_with_vat>179.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Kreafunk]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>5713680601355</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>1500</weight>
+      <color><![CDATA[Μπεζ]]></color>
+    </product>
+    <product>
+      <id>MB041</id>
+      <name><![CDATA[JBL Quantum ONE Wired Gaming Headset Black]]></name>
+      <link><![CDATA[https://mobly.gr/product/jbl-quantum-one-wired-gaming-headset-black]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/jbl_quantumone_productimage_angle_1-1080x1080-1.jpg]]></image>
+      <category><![CDATA[Gaming > Gaming Ακουστικά]]></category>
+      <price_with_vat>178.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[JBL]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>6925281969737</ean>
+      <availability>In stock</availability>
+      <quantity>2</quantity>
+      <weight>1000</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB001</id>
+      <name><![CDATA[Sony PULSE Elite Wireless Gaming Headset Midnight Black (PS5)]]></name>
+      <link><![CDATA[https://mobly.gr/product/sony-pulse-elite-wireless-gaming-headset-midnight-black-ps5]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2025/07/elite-midnight.jpg]]></image>
+      <category><![CDATA[Gaming > Gaming Ακουστικά]]></category>
+      <price_with_vat>129.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Sony]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0711719590101</ean>
+      <availability>In stock</availability>
+      <quantity>3</quantity>
+      <weight>800</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB031</id>
+      <name><![CDATA[Samsung Galaxy Tab A9 8.7" Wi-Fi 4/64GB Silver]]></name>
+      <link><![CDATA[https://mobly.gr/product/samsung-galaxy-tab-a9-8-7-wi-fi-4-64gb-silver]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2025/09/20241217151714_samsung_galaxy_tab_a9_8_7_me_wifi_4gb_64gb_asimi.jpeg]]></image>
+      <category><![CDATA[Tablets]]></category>
+      <price_with_vat>129.00</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Samsung]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>8806095305912</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>700</weight>
+      <color><![CDATA[Ασημί]]></color>
+    </product>
+    <product>
+      <id>MB033</id>
+      <name><![CDATA[Wanbo X1 Mini Projector White]]></name>
+      <link><![CDATA[https://mobly.gr/product/wanbo-x1-mini-projector-white]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2026/03/xiaomi-wanbo-xiaomi-wanbo-projector-mini-xs01.jpg]]></image>
+      <category><![CDATA[Projectors]]></category>
+      <price_with_vat>119.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Wanbo]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>6970885350160</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>1500</weight>
+      <color><![CDATA[Λευκό]]></color>
+    </product>
+    <product>
+      <id>MB019</id>
+      <name><![CDATA[Bose SoundLink Micro Ηχείο Bluetooth Stone Blue]]></name>
+      <link><![CDATA[https://mobly.gr/product/bose-soundlink-micro-bluetooth-stone-blue]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/AB002768-1200x1200h.jpg]]></image>
+      <category><![CDATA[Ήχος > Φορητά Ηχεία Bluetooth]]></category>
+      <price_with_vat>109.00</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Bose]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0017817768412</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>500</weight>
+      <color><![CDATA[Μπλε]]></color>
+    </product>
+    <product>
+      <id>MB040</id>
+      <name><![CDATA[JBL Quantum 350 Wireless Gaming Headset Black]]></name>
+      <link><![CDATA[https://mobly.gr/product/jbl-quantum-350-wireless-gaming-headset-black]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/jbl_quantum350wireless_productimage_angle-copy.jpg]]></image>
+      <category><![CDATA[Gaming > Gaming Ακουστικά]]></category>
+      <price_with_vat>109.00</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[JBL]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>6925281986499</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>800</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB020</id>
+      <name><![CDATA[Bose SoundLink Micro Ηχείο Bluetooth White Smoke]]></name>
+      <link><![CDATA[https://mobly.gr/product/bose-soundlink-micro-bluetooth-white-smoke]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/AB002767-1200x1200h.jpg]]></image>
+      <category><![CDATA[Ήχος > Φορητά Ηχεία Bluetooth]]></category>
+      <price_with_vat>94.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Bose]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0017817836111</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>500</weight>
+      <color><![CDATA[Λευκό]]></color>
+    </product>
+    <product>
+      <id>MB005</id>
+      <name><![CDATA[Sony Access Controller για PS5]]></name>
+      <link><![CDATA[https://mobly.gr/product/sony-access-controller-ps5]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/03/697290_1024.jpeg]]></image>
+      <category><![CDATA[Gaming > Χειριστήρια]]></category>
+      <price_with_vat>84.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Sony]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0711719567929</ean>
+      <availability>In stock</availability>
+      <quantity>2</quantity>
+      <weight>800</weight>
+      <color><![CDATA[Λευκό]]></color>
+    </product>
+    <product>
+      <id>MB053</id>
+      <name><![CDATA[Kreafunk aJAZZ Qi Ηχείο Bluetooth με Ασύρματη Φόρτιση Black]]></name>
+      <link><![CDATA[https://mobly.gr/product/kreafunk-ajazz-qi-bluetooth-black]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/04/20220523131619_kreafunk_ajazz_qi_icheio_bluetooth_6w_me_30_ores_leitourgias_black.jpeg]]></image>
+      <category><![CDATA[Ήχος > Ηχεία Bluetooth]]></category>
+      <price_with_vat>79.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Kreafunk]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>5713680600549</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>900</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB034</id>
+      <name><![CDATA[Cecotec Conga Popstar 600 Vital Σκούπα Stick]]></name>
+      <link><![CDATA[https://mobly.gr/product/cecotec-conga-popstar-600-vital-stick]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2025/01/20231108162307_cecotec_popstar_600_vital_05672_ilektriki_skoupa_stick_mayri.jpeg]]></image>
+      <category><![CDATA[Οικιακές Συσκευές > Σκούπες Stick]]></category>
+      <price_with_vat>79.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Cecotec]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>8435484056724</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>3500</weight>
+    </product>
+    <product>
+      <id>MB007</id>
+      <name><![CDATA[Sony INZONE H3 Wired Gaming Headset White (MDR-G300)]]></name>
+      <link><![CDATA[https://mobly.gr/product/sony-inzone-h3-wired-gaming-headset-white-mdr-g300]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/20240710155307_sony_inzone_h3_over_ear_gaming_headset_me_syndesi_3_5mm_leyko.jpeg]]></image>
+      <category><![CDATA[Gaming > Gaming Ακουστικά]]></category>
+      <price_with_vat>78.00</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Sony]]></manufacturer>
+      <mpn><![CDATA[MDR-G300]]></mpn>
+      <ean>4548736133464</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>600</weight>
+      <color><![CDATA[Λευκό]]></color>
+    </product>
+    <product>
+      <id>MB039</id>
+      <name><![CDATA[JBL Quantum 200 Wired Gaming Headset Black]]></name>
+      <link><![CDATA[https://mobly.gr/product/jbl-quantum-200-wired-gaming-headset-black]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/jbl_quantum_200_productimage_hero-1080x1080-1.jpg]]></image>
+      <category><![CDATA[Gaming > Gaming Ακουστικά]]></category>
+      <price_with_vat>54.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[JBL]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>6925281969546</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>700</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB044</id>
+      <name><![CDATA[JBL Tune 215BT Ασύρματα Ακουστικά White]]></name>
+      <link><![CDATA[https://mobly.gr/product/jbl-tune-215bt-white]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/06/jbl_tune215bt_productimage_hero_white-1-1.jpeg]]></image>
+      <category><![CDATA[Ήχος > Ακουστικά]]></category>
+      <price_with_vat>49.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[JBL]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>6925281974373</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>300</weight>
+      <color><![CDATA[Λευκό]]></color>
+    </product>
+    <product>
+      <id>MB059</id>
+      <name><![CDATA[Kreafunk aLIGHT Ηχείο Bluetooth Ivory Sand]]></name>
+      <link><![CDATA[https://mobly.gr/product/kreafunk-alight-bluetooth-ivory-sand]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/04/20230424125902_kreafunk_alight_kfat09_icheio_bluetooth_me_diarkeia_mpatarias_eos_15_ores_ivory_sand.jpeg]]></image>
+      <category><![CDATA[Ήχος > Φορητά Ηχεία Bluetooth]]></category>
+      <price_with_vat>44.00</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Kreafunk]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>5713680603120</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>500</weight>
+      <color><![CDATA[Μπεζ]]></color>
+    </product>
+    <product>
+      <id>MB016</id>
+      <name><![CDATA[Death Stranding (PS4)]]></name>
+      <link><![CDATA[https://mobly.gr/product/death-stranding-ps4]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2026/04/death-stranding-standard-1.jpg]]></image>
+      <category><![CDATA[Gaming > Παιχνίδια PS4]]></category>
+      <price_with_vat>39.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Sony]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0711719952206</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>150</weight>
+    </product>
+    <product>
+      <id>MB008</id>
+      <name><![CDATA[NBA 2K23 (PS5)]]></name>
+      <link><![CDATA[https://mobly.gr/product/nba-2k23-ps5]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/04/2k23.jpeg]]></image>
+      <category><![CDATA[Gaming > Παιχνίδια PS5]]></category>
+      <price_with_vat>39.39</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[2K]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>5026555432597</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>150</weight>
+    </product>
+    <product>
+      <id>MB006</id>
+      <name><![CDATA[Sony Vertical Stand για PS5 Slim]]></name>
+      <link><![CDATA[https://mobly.gr/product/sony-vertical-stand-ps5-slim]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/11/playstation-5-vertical-support.png]]></image>
+      <category><![CDATA[Gaming > Αξεσουάρ Κονσολών]]></category>
+      <price_with_vat>39.00</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Sony]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0711719579533</ean>
+      <availability>In stock</availability>
+      <quantity>2</quantity>
+      <weight>300</weight>
+    </product>
+    <product>
+      <id>MB043</id>
+      <name><![CDATA[JBL Tune 500 On-Ear Ενσύρματα Ακουστικά White]]></name>
+      <link><![CDATA[https://mobly.gr/product/jbl-tune-500-on-ear-white]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/06/464186_1024.jpeg]]></image>
+      <category><![CDATA[Ήχος > Ακουστικά]]></category>
+      <price_with_vat>27.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[JBL]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>6925281939938</ean>
+      <availability>In stock</availability>
+      <quantity>3</quantity>
+      <weight>400</weight>
+      <color><![CDATA[Λευκό]]></color>
+    </product>
+    <product>
+      <id>MB009</id>
+      <name><![CDATA[Marvel's Spider-Man: Miles Morales (PS5)]]></name>
+      <link><![CDATA[https://mobly.gr/product/marvel-s-spider-man-miles-morales-ps5]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/04/marvels-spider-man-miles-morales-ps5-e1641578314238.jpeg]]></image>
+      <category><![CDATA[Gaming > Παιχνίδια PS5]]></category>
+      <price_with_vat>27.79</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Sony]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>0711719800491</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>150</weight>
+    </product>
+    <product>
+      <id>MB042</id>
+      <name><![CDATA[JBL Tune 500 On-Ear Ενσύρματα Ακουστικά Black]]></name>
+      <link><![CDATA[https://mobly.gr/product/jbl-tune-500-on-ear-black]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/06/464183_1024.jpeg]]></image>
+      <category><![CDATA[Ήχος > Ακουστικά]]></category>
+      <price_with_vat>24.50</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[JBL]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>6925281939921</ean>
+      <availability>In stock</availability>
+      <quantity>7</quantity>
+      <weight>400</weight>
+      <color><![CDATA[Μαύρο]]></color>
+    </product>
+    <product>
+      <id>MB027</id>
+      <name><![CDATA[Xiaomi Body Composition Scale S400 White]]></name>
+      <link><![CDATA[https://mobly.gr/product/xiaomi-body-composition-scale-s400-white]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/20240610125619_xiaomi_smart_zygaria_me_bluetooth_se_leyko_chroma_bhr7793gl.jpeg]]></image>
+      <category><![CDATA[Υγεία > Ζυγαριές]]></category>
+      <price_with_vat>19.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Xiaomi]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>6941812751985</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>2000</weight>
+      <color><![CDATA[Λευκό]]></color>
+    </product>
+    <product>
+      <id>MB028</id>
+      <name><![CDATA[Xiaomi LCD Writing Tablet 13.5" Color Edition]]></name>
+      <link><![CDATA[https://mobly.gr/product/xiaomi-lcd-writing-tablet-13-5-color-edition]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/10/20240808163614_xiaomi_mijia_blackboard_lcd_ilektroniko_simeiomatario_13_5_color_edition_leyko_bhr7278gl.jpeg]]></image>
+      <category><![CDATA[Gadgets > Ηλεκτρονικά Σημειωματάρια]]></category>
+      <price_with_vat>19.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Xiaomi]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>6941812726792</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>600</weight>
+    </product>
+    <product>
+      <id>MB017</id>
+      <name><![CDATA[PGA Tour 2K21 (PS4)]]></name>
+      <link><![CDATA[https://mobly.gr/product/pga-tour-2k21-ps4]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2026/04/pga-tour-2k21-ps4-30-1.jpg]]></image>
+      <category><![CDATA[Gaming > Παιχνίδια PS4]]></category>
+      <price_with_vat>19.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[2K]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>5026555428125</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>150</weight>
+    </product>
+    <product>
+      <id>MB018</id>
+      <name><![CDATA[Watch Dogs: Legion Resistance Edition (PS4)]]></name>
+      <link><![CDATA[https://mobly.gr/product/watch-dogs-legion-resistance-edition-ps4]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2026/04/ps4-watch-dogs-legion-resistance-edition.jpg]]></image>
+      <category><![CDATA[Gaming > Παιχνίδια PS4]]></category>
+      <price_with_vat>19.90</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Ubisoft]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>3307216138655</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>150</weight>
+    </product>
+    <product>
+      <id>MB013</id>
+      <name><![CDATA[Skull and Bones Special Edition (PS5)]]></name>
+      <link><![CDATA[https://mobly.gr/product/skull-and-bones-special-edition-ps5]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2025/02/4038134.jpg]]></image>
+      <category><![CDATA[Gaming > Παιχνίδια PS5]]></category>
+      <price_with_vat>19.70</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Ubisoft]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>3307216250289</ean>
+      <availability>In stock</availability>
+      <quantity>3</quantity>
+      <weight>150</weight>
+    </product>
+    <product>
+      <id>MB012</id>
+      <name><![CDATA[Watch Dogs: Legion Resistance Edition (PS5)]]></name>
+      <link><![CDATA[https://mobly.gr/product/watch-dogs-legion-resistance-edition-ps5]]></link>
+      <image><![CDATA[https://gadgetway.gr/wp-content/uploads/2024/04/watch-dogs-legion-resistance-edition-ps5-e1658254008136.jpeg]]></image>
+      <category><![CDATA[Gaming > Παιχνίδια PS5]]></category>
+      <price_with_vat>9.50</price_with_vat>
+      <vat>24.00</vat>
+      <manufacturer><![CDATA[Ubisoft]]></manufacturer>
+      <mpn><![CDATA[]]></mpn>
+      <ean>3307216175964</ean>
+      <availability>In stock</availability>
+      <quantity>1</quantity>
+      <weight>150</weight>
+    </product>
+  </products>
+</mywebstore>
