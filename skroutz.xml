@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-  <created_at>2026-10-30 13:00</created_at>
+  <created_at>2026-10-31 17:49</created_at>
   <products>
     <product>
       <id>MB025</id>
@@ -8,7 +8,7 @@
       <link><![CDATA[https://mobly.gr/product/apple-airpods-max-usb-c-starlight]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB025.jpg]]></image>
       <category><![CDATA[Ήχος > Ακουστικά]]></category>
-      <price_with_vat>465.00</price_with_vat>
+      <price_with_vat>468.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[Apple]]></manufacturer>
       <mpn><![CDATA[MWW53ZM/A]]></mpn>
@@ -82,22 +82,6 @@
       <weight>2000</weight>
     </product>
     <product>
-      <id>MB037</id>
-      <name><![CDATA[Logitech G29 Driving Force Τιμονιέρα με Πετάλια (PS5/PS4/PC)]]></name>
-      <link><![CDATA[https://mobly.gr/product/logitech-g29-driving-force-ps5-ps4-pc]]></link>
-      <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB037.jpg]]></image>
-      <category><![CDATA[Gaming > Τιμονιέρες]]></category>
-      <price_with_vat>220.00</price_with_vat>
-      <vat>24.00</vat>
-      <manufacturer><![CDATA[Logitech]]></manufacturer>
-      <mpn><![CDATA[941-000112]]></mpn>
-      <ean>5099206057302</ean>
-      <availability>In stock</availability>
-      <quantity>1</quantity>
-      <weight>7000</weight>
-      <color><![CDATA[Μαύρο]]></color>
-    </product>
-    <product>
       <id>MB003</id>
       <name><![CDATA[Sony PULSE Explore Wireless Earbuds White (PS5)]]></name>
       <link><![CDATA[https://mobly.gr/product/sony-pulse-explore-wireless-earbuds-white-ps5]]></link>
@@ -135,7 +119,7 @@
       <link><![CDATA[https://mobly.gr/product/kreafunk-amajor-ii-bluetooth-cotta-orange]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB054.jpg]]></image>
       <category><![CDATA[Ήχος > Φορητά Ηχεία Bluetooth]]></category>
-      <price_with_vat>200.00</price_with_vat>
+      <price_with_vat>185.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[Kreafunk]]></manufacturer>
       <mpn><![CDATA[KFJL05]]></mpn>
@@ -182,7 +166,7 @@
       <link><![CDATA[https://mobly.gr/product/nanoleaf-shapes-ultra-black-hexagons-smarter-kit-9-panels]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB046.jpg]]></image>
       <category><![CDATA[Smart Home > Έξυπνος Φωτισμός]]></category>
-      <price_with_vat>200.00</price_with_vat>
+      <price_with_vat>196.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[Nanoleaf]]></manufacturer>
       <mpn><![CDATA[NL42-0102HX-9PK]]></mpn>
@@ -198,7 +182,7 @@
       <link><![CDATA[https://mobly.gr/product/sony-pulse-explore-wireless-earbuds-midnight-black-ps5]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB002.jpg]]></image>
       <category><![CDATA[Gaming > Gaming Ακουστικά]]></category>
-      <price_with_vat>185.00</price_with_vat>
+      <price_with_vat>184.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[Sony]]></manufacturer>
       <mpn><![CDATA[CFI-ZWE1]]></mpn>
@@ -214,7 +198,7 @@
       <link><![CDATA[https://mobly.gr/product/harman-kardon-luna-bluetooth-grey]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB023.jpg]]></image>
       <category><![CDATA[Ήχος > Φορητά Ηχεία Bluetooth]]></category>
-      <price_with_vat>173.00</price_with_vat>
+      <price_with_vat>168.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[Harman Kardon]]></manufacturer>
       <mpn><![CDATA[HKLUNAGRYEU]]></mpn>
@@ -278,7 +262,7 @@
       <link><![CDATA[https://mobly.gr/product/kreafunk-ajazz-bluetooth-ivory-sand]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB052.jpg]]></image>
       <category><![CDATA[Ήχος > Ηχεία Bluetooth]]></category>
-      <price_with_vat>178.00</price_with_vat>
+      <price_with_vat>176.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[Kreafunk]]></manufacturer>
       <mpn><![CDATA[KFWT108]]></mpn>
@@ -294,7 +278,7 @@
       <link><![CDATA[https://mobly.gr/product/jbl-quantum-one-wired-gaming-headset-black]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB041.jpg]]></image>
       <category><![CDATA[Gaming > Gaming Ακουστικά]]></category>
-      <price_with_vat>175.00</price_with_vat>
+      <price_with_vat>169.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[JBL]]></manufacturer>
       <mpn><![CDATA[JBLQUANTUMONEBLK]]></mpn>
