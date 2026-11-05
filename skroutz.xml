@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-  <created_at>2026-11-05 11:56</created_at>
+  <created_at>2026-11-05 18:18</created_at>
   <products>
     <product>
       <id>MB025</id>
@@ -140,8 +140,8 @@
       <manufacturer><![CDATA[Sony]]></manufacturer>
       <mpn><![CDATA[CFI-ZCP1]]></mpn>
       <ean>0711719586555</ean>
-      <availability>In stock</availability>
-      <quantity>1</quantity>
+      <availability>Out of stock</availability>
+      <quantity>0</quantity>
       <weight>1200</weight>
     </product>
     <product>
