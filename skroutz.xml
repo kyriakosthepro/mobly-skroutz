@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-  <created_at>2026-11-05 18:18</created_at>
+  <created_at>2026-11-06 10:15</created_at>
   <products>
     <product>
       <id>MB025</id>
@@ -108,8 +108,8 @@
       <manufacturer><![CDATA[Samsung]]></manufacturer>
       <mpn><![CDATA[SM-R910NZAAEUE]]></mpn>
       <ean>8806094494389</ean>
-      <availability>In stock</availability>
-      <quantity>2</quantity>
+      <availability>Out of stock</availability>
+      <quantity>0</quantity>
       <weight>500</weight>
       <color><![CDATA[Γκρι]]></color>
     </product>
