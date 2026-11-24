@@ -490,8 +490,8 @@
       <manufacturer><![CDATA[Sony]]></manufacturer>
       <mpn><![CDATA[1000041339]]></mpn>
       <ean>0711719579533</ean>
-      <availability>In stock</availability>
-      <quantity>2</quantity>
+      <availability>Out of stock</availability>
+      <quantity>0</quantity>
       <weight>300</weight>
     </product>
     <product>
@@ -506,7 +506,7 @@
       <mpn><![CDATA[JBLT500WHT]]></mpn>
       <ean>6925281939938</ean>
       <availability>In stock</availability>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <weight>400</weight>
       <color><![CDATA[Λευκό]]></color>
     </product>
@@ -521,8 +521,8 @@
       <manufacturer><![CDATA[JBL]]></manufacturer>
       <mpn><![CDATA[JBLT500BLK]]></mpn>
       <ean>6925281939921</ean>
-      <availability>In stock</availability>
-      <quantity>7</quantity>
+      <availability>Out of stock</availability>
+      <quantity>0</quantity>
       <weight>400</weight>
       <color><![CDATA[Μαύρο]]></color>
     </product>
