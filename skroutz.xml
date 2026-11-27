@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-  <created_at>2026-11-18 00:13</created_at>
+  <created_at>2026-11-27 09:14</created_at>
   <products>
     <product>
       <id>MB025</id>
@@ -8,7 +8,7 @@
       <link><![CDATA[https://mobly.gr/product/apple-airpods-max-usb-c-starlight]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB025.jpg]]></image>
       <category><![CDATA[Ήχος > Ακουστικά]]></category>
-      <price_with_vat>468.00</price_with_vat>
+      <price_with_vat>440.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[Apple]]></manufacturer>
       <mpn><![CDATA[MWW53ZM/A]]></mpn>
@@ -24,7 +24,7 @@
       <link><![CDATA[https://mobly.gr/product/apple-airpods-max-usb-c-purple]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB024.jpg]]></image>
       <category><![CDATA[Ήχος > Ακουστικά]]></category>
-      <price_with_vat>464.50</price_with_vat>
+      <price_with_vat>430.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[Apple]]></manufacturer>
       <mpn><![CDATA[MWW83ZM/A]]></mpn>
@@ -40,7 +40,7 @@
       <link><![CDATA[https://mobly.gr/product/xiaomi-electric-scooter-4-pro-2nd-gen-black]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB026.jpg]]></image>
       <category><![CDATA[Χόμπι & Αθλητισμός > Ηλεκτρική Μετακίνηση > Ηλεκτρικά Πατίνια]]></category>
-      <price_with_vat>450.00</price_with_vat>
+      <price_with_vat>420.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[Xiaomi]]></manufacturer>
       <mpn><![CDATA[BHR8067GL]]></mpn>
@@ -56,7 +56,7 @@
       <link><![CDATA[https://mobly.gr/product/bose-noise-cancelling-headphones-700-luxe-silver]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB022.jpg]]></image>
       <category><![CDATA[Ήχος > Ακουστικά]]></category>
-      <price_with_vat>430.00</price_with_vat>
+      <price_with_vat>399.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[Bose]]></manufacturer>
       <mpn><![CDATA[794297-0300]]></mpn>
@@ -278,7 +278,7 @@
       <link><![CDATA[https://mobly.gr/product/jbl-quantum-one-wired-gaming-headset-black]]></link>
       <image><![CDATA[https://raw.githubusercontent.com/kyriakosthepro/mobly-skroutz/main/MB041.jpg]]></image>
       <category><![CDATA[Gaming > Gaming Ακουστικά]]></category>
-      <price_with_vat>169.00</price_with_vat>
+      <price_with_vat>157.00</price_with_vat>
       <vat>24.00</vat>
       <manufacturer><![CDATA[JBL]]></manufacturer>
       <mpn><![CDATA[JBLQUANTUMONEBLK]]></mpn>
